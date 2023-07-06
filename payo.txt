@@ -1,0 +1,6 @@
+1 asish 23 23 cse lectr 1 50000 AP21110011
+2 kajol 37 45 ece assitant 3 15000 AP21110015
+3 riolu 43 43 gen faculty 6 40000 AP21110014
+4 dhanush 18 45 eng consult 6 60000 AP21110018
+5 srija 23 23 math speaker 6 50000 AP21110011
+6 peter 34 10 cse teacher 6 100000 ap21110010909
