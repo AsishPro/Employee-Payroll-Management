@@ -1,4 +1,4 @@
-/* C++ Project -4 Employee Payroll Management System
+/* C++ Employee Payroll Management System
 P Asish Manoj Reddy 
 //username,password - asish
 */
